@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "Ordo Lustrationis Mail",
+    "iconName": "logo.webp",
+    "terminalID": "001",
     "defaultUser": {
         "userId": "user",
         "password": "",
@@ -10,10 +10,10 @@
     },
     "initialHistory": {
         "user": [
-            "login admin@admin"
+            "login applebottom:*******"
         ],
         "admin": [
-            "ping fbi.gov"
+            "mail"
         ]
     }
 }
