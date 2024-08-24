@@ -1,9 +1,21 @@
 [
     {
         "from": "Mentis",
-        "to": ["applebottom", "bart", "dixon"],
+        "to": ["dixon"],
+        "title": "The Girl",
+        "body": "11/5/94 I just inspected the girl's body we recovered this morning as you suggested. I do feel some kind of psychic presence still. This may prove useful, even if unpredictable, lets keep this between us for now."
+    },
+    {
+        "from": "Animae",
+        "to": ["Dixon"],
+        "title": "Hail Mary",
+        "body": "11/5/94 I have a plan to stop these kids but I'm not sure Applebottom will like it, lets meet in private this evening"
+    },
+    {
+        "from": "Mentis",
+        "to": ["applebottom"],
         "title": "Therapy Update",
-        "body": "8/10/94 As per our plan, I have been using the Natus Gratus to forge documents, protecting us if we were to be discovered. I have yet to notice suspicion from any townsfolk. They are being held outside of town for the time being. Current count 27. Great work team."
+        "body": "8/10/94 As per our plan, I have been using the Natus Gratus to forge documents, protecting us if we were to be discovered. I have yet to notice suspicion from any townsfolk. They are being held outside of town for the time being. Current count 10. Great work team."
     },
     {
         "from": "Mentis",
@@ -13,43 +25,43 @@
     },
     {
         "from": "Animae",
-        "to": ["applebottom", "dixon", "mentis"],
+        "to": ["applebottom"],
         "title": "Johnson's kid?",
         "body": "9/06/94 I just met Pete Johnson's kid at the elementary; I think he may be a good candidate for a younger Natus Gratus. I will fill you in this evening."
     },
     {
         "from": "Insanabilium",
-        "to": ["applebottom", "bart", "mentis"],
+        "to": ["applebottom"],
         "title": "Natus Gratus",
         "body": "10/13/94 She's fighting more. One of my men said she turned his clothes to sandpaper. Isn't she supposed to be locked in purgatory?"
     },
     {
         "from": "Mentis",
-        "to": ["applebottom", "bart", "dixon"],
+        "to": ["applebottom"],
         "title": "RE Natus Gratus",
         "body": "10/14/94 I just checked on her. She seems firmly under my control, and her consciousness is trapped in purgatory, though maybe it's time to explore replacements."
     },
     {
         "from": "Animae",
-        "to": ["applebottom", "bart", "mentis"],
+        "to": ["applebottom"],
         "title": "School Project Underway",
         "body": "10/29/94 Wow, Henry, just finished my tour of the current construction. We are perfectly on schedule for next week."
     },
     {
         "from": "Insanabilium",
-        "to": ["applebottom", "bart", "mentis"],
+        "to": ["applebottom"],
         "title": "Important grab tonight",
         "body": "11/04/94 I just finished briefing my men. Wish us luck; high stakes today, everyone is important. Both Johnson kids, Cruilio boy, the Neely girl, another Plank, the Sonar shitbag, and his mom, our first grown captive."
     },
     {
         "from": "Animae",
-        "to": ["applebottom", "dixon", "mentis"],
+        "to": ["applebottom"],
         "title": "EMERGENCY",
         "body": "11/5/94 I just got word that the Natus Gratus escaped around midnight. Many are dead, the current holding is far too compromised, those still there are suggesting moving into the cave in town ASAP. I pray that Dixon sees this before he collects tonight."
     },
     {
         "from": "Insanabilium",
-        "to": ["applebottom", "bart"],
+        "to": ["applebottom"],
         "title": "Last night",
         "body": "11/5/94 I woke up in a park in Salem. It seems the bitch escaped last night. She's dead now, but when I shot her, she started glowing. I'm not sure what happened to the other kids. We need to regroup when I return to Toadsdale."
     },
